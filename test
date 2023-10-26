@@ -1,0 +1,52 @@
+{
+  "status": 200,
+  "result": {
+    "app_setting": {
+      "flag": "Normal",
+      "version": "1",
+      "title": "",
+      "description": "",
+      "url": "",
+      "button": "",
+      "button_skip": "",
+      "all_ads_status": 1,
+      "google": {
+        "AdMob_Interstitial": [
+          "/21753324030,22996634514/com.tvlive.channleall.guidetv.livechannel_Interstitial"
+        ],
+        "AdMob_Native": [
+          "/21753324030,22996634514/com.tvlive.channleall.guidetv.livechannel_Native"
+        ],
+        "AdMob_Banner": [
+          "/21753324030,22996634514/com.tvlive.channleall.guidetv.livechannel_Banner"
+        ],
+        "AdMob_AppOpen": [
+          "/21753324030,22996634514/com.tvlive.channleall.guidetv.livechannel_AppOpen"
+        ]
+      },
+      "facebook": {
+        "Facebook_Interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "Facebook_Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "Facebook_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "Facebook_MediumNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      },
+      "others": {
+        "App_Screen": "1234",
+        "ForwardClick": "2",
+        "Back_Inter_Status": "1",
+        "BackTimer": "0",
+        "ForwardTimer": "0",
+        "AppOpen_Status": "1",
+        "BackClick": "2",
+        "PrivacyPolicy_URL": "https://www.google.co.in/",
+        "Native_Timer": "0",
+        "app_updateAppDialogStatus": "1",
+        "Banner_Status": "0",
+        "Native_Status": "1",
+        "Forward_Inter_Status": "1",
+        "Exit_Dialog_Ads": "1",
+        "app_versionCode": "1"
+      }
+    }
+  }
+}
